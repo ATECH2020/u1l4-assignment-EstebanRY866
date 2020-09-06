@@ -17,6 +17,7 @@ class Timestamps {
         int secInHour2;
         int secInMin1;
         int secInMin2; 
+        
 
         /*
          *  your code goes here
